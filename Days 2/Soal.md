@@ -16,7 +16,7 @@
 ## Lvl 2
 
 1. Periksa tipe data dari semua variabel kamu menggunakan fungsi built-in type()
-2. Menggunakan fungsi built-in _len()_, temukan panjang dari nama kamu
+2. Menggunakan fungsi built-in _len()_, temukan  dari nama kamu
 3. Deklarasikan 5 sebagai num_one dan 4 sebagai num_two
     1. Tambahkan num_one dan num_two dan berikan nilai ke variabel total
     2. Kurangkan num_two dari num_one dan berikan nilai ke variabel diff
